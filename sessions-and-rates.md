@@ -21,9 +21,9 @@ All sessions are online via Zoom.
 
 Before our first meeting I will send you the Intake Form and the Informed Consent Form. Please complete the Intake Form and send it to me at least 24 hours before we are scheduled to meet. Here’s a link that describes how to send a document password protected – it goes through the directions for various versions of Word, and for Macs (at the end). It’s more straightforward than it looks at first glance! You will need to choose a password for the document and I will use that to open and read it. Let me know if you have any questions about this, or if you run into any difficulties
 
-<div><http://www.wikihow.com/Password-Protect-a-Microsoft-Word-Document>
+<http://www.wikihow.com/Password-Protect-a-Microsoft-Word-Document>
 
-</div>Please read the Informed Consent form. If you have questions or concerns about it I am very happy to discuss those with you when we meet.
+Please read the Informed Consent form. If you have questions or concerns about it I am very happy to discuss those with you when we meet.
 
 Payment is at the end of each session. Please pay by E-transfer or paypal in Canadian dollars.
 

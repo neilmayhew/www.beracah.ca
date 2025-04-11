@@ -7,11 +7,16 @@ layout: page
 guid: 'http://www.beracah.ca/?page_id=332'
 ---
 
-<div class="alignright" style="width: 45%; text-align: right;">![The Emmaus Journey Logo](/wp-content/uploads/2015/10/LOGO1.png)SUPPORTED IN PART BY THE MORE NETWORK
+<!-- <div class="alignright" style="width: 45%; text-align: right;"> -->
+![The Emmaus Journey Logo](/wp-content/uploads/2015/10/LOGO1.png)
+
+SUPPORTED IN PART BY THE MORE NETWORK
 
 ![The More Network Logo](/wp-content/uploads/2019/08/MoreNet17_200x142.jpg)
 
-</div>### Honouring your story of cross-cultural ministry, or ministry in the home office, through reflection, retreat and debriefing
+<!-- </div> -->
+
+### Honouring your story of cross-cultural ministry, or ministry in the home office, through reflection, retreat and debriefing
 
 |  |  |
 |---|---|

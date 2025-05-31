@@ -7,4 +7,12 @@ layout: page
 guid: 'http://www.beracah.ca/?page_id=19'
 ---
 
-<dl><dt style="margin-bottom: 0;">Phone</dt><dd style="margin-bottom: 0;"><span class="show">403-</span><span class="hide">123</span><span class="show">477-</span><span class="hide">456</span><span class="show">8772</span></dd><dt style="margin-bottom: 0;">Email</dt><dd style="margin-bottom: 0;">[hazel<span class="hide">13</span>@<span class="hide">37</span>beracah.ca](mailto:hazel13@37beracah.ca)</dd></dl>I typically return calls and emails within one or two business days. In order to respect your privacy please leave me any specific directions regarding contacting you, for example specific times that I should not contact you, or if I should not leave a message.
+**Phone**
+
+<span class="shown">403-</span><span class="hidden">123</span><span class="shown">477-</span><span class="hidden">456</span><span class="shown">8772</span>
+
+**Email**
+
+<a href="mailto:hazel13@37beracah.ca">hazel<span class="hidden">13</span>@<span class="hidden">37</span>beracah.ca</a>
+
+I typically return calls and emails within one or two business days. In order to respect your privacy please leave me any specific directions regarding contacting you, for example specific times that I should not contact you, or if I should not leave a message.

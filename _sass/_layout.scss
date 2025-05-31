@@ -1,18 +1,25 @@
 .blog-theme-class {
   margin-top:0.3%;
-  padding:3%;
-  background:#008cba;
+  padding-top:2%;
+  background-image:
+    url('/wp-content/uploads/2017/01/Header-Image-2.jpg'); // Fallback for older browsers
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),
+    url('/wp-content/uploads/2017/01/Header-Image-2.jpg');
+  background-size: cover;
   .jumb-bot {
-    background:#008cba;
-    
   }
-  .jumbotron{
-    background:#008cba;
+  .jumbotron {
+    background: none;
+    text-align: center;
     h1 {
-      color :#fff;
+      font-size: 400%;
+      font-family: "Old Standard TT", Georgia, serif;
+      font-weight: normal;
     }
-    p{
-      color:#fff;
+    p {
+      font-size: 80%;
+      font-style: italic;
     }
   }
 }
@@ -33,11 +40,11 @@
 
 .jumb-bot-jumbu {
   margin: 0px;
-  padding-top: 15px;
-  padding-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #eee;
   p {
-    padding-top: 13px;
+    padding-top: 0px;
   }
 }
 

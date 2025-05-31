@@ -65,6 +65,12 @@
   p {
     padding-top: 0px;
   }
+  a {
+    color: inherit;
+      &:hover, &:focus, &:visited {
+        text-decoration: inherit;
+      }
+  }
 }
 
 .left-syms {

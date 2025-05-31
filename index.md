@@ -17,5 +17,5 @@ I look forward to hearing from you. I would be honoured to be part of your journ
 
 **All sessions are online using Zoom.**
 
-As of June 10th 2024 my schedule is full and I am unfortunately not able to accept any new clients.   
+As of May 30, 2025 my schedule is full and I am unfortunately not able to accept any new clients.
 Please contact me if you would like me to give you some options for counsellors who may have space and are able to meet with you.

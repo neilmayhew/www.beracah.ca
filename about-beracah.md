@@ -15,4 +15,4 @@ It is my belief that the challenges we face at times in our lives can seem like 
 
 The story in 2 Chronicles 20 continues as the people of God go out to face the army, only to find that there had been in-fighting and all the men were dead. They then “assembled in the Valley of Berakah (blessing) where they praised the Lord” (20: 26).
 
-It is my prayer that God will be with you in your challenges and that he will defeat your enemy, whatever that is.
+I pray that you will experience God with you in your work of defeating your 'enemy', whatever that is. 

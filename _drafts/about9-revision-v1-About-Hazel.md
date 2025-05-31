@@ -8,7 +8,7 @@ guid: 'http://www.beracah.ca/?p=771'
 permalink: '/?p=771'
 ---
 
-![](https://www.beracah.ca/wp-content/uploads/2019/05/IMG_20190508_131114-262x300.jpg)  
+![](/wp-content/uploads/2019/05/IMG_20190508_131114-262x300.jpg)  
 As a member of an international Christian mission agency for 20 years, Hazel, who is originally from England, spent time in Kenya and Texas before moving to Canada. She is married with three adult third-culture sons and a daughter-in-law.
 
 Her earlier career as a nurse, together with her later work in personnel with the mission agency, have been a good match for her compassionate and approachable nature, as well as her love for getting alongside people and supporting them in life’s difficult circumstances and challenges.

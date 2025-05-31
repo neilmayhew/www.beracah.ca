@@ -11,6 +11,6 @@ permalink: '/?p=97'
 *MA Counselling  
 Providence Theological Seminary*
 
-[![Hazel Mayhew](https://www.beracah.ca/wp-content/uploads/2013/03/Hazel-cropped.jpg "Hazel Mayhew")](https://www.beracah.ca/wp-content/uploads/2013/03/Hazel-cropped.jpg)
+[![Hazel Mayhew](/wp-content/uploads/2013/03/Hazel-cropped.jpg "Hazel Mayhew")](/wp-content/uploads/2013/03/Hazel-cropped.jpg)
 
 This website is currently under construction. If you are interested in the counselling services I provide please call me on 403 477 8772 to find out more.

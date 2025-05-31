@@ -4,7 +4,7 @@ title: Contact
 date: '2013-03-18T08:26:24-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=19'
+guid: '/?page_id=19'
 ---
 
 **Phone**

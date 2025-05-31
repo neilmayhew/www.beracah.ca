@@ -4,7 +4,7 @@ title: 'Sessions, Rates and Location'
 date: '2013-06-06T14:09:38-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=183'
+guid: '/?page_id=183'
 ---
 
 Sessions are approximately 60 minutes (90 minutes for couples).

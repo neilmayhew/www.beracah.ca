@@ -4,10 +4,10 @@ title: 'Beracah Counselling'
 date: '2013-03-18T08:28:22-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=22'
+guid: '/?page_id=22'
 ---
 
-![](https://www.beracah.ca/wp-content/uploads/2019/05/Lifespan-website-photo-267x300.jpg){: style="float: right; margin-left: 2em"}
+![](/wp-content/uploads/2019/05/Lifespan-website-photo-267x300.jpg){: style="float: right; margin-left: 2em"}
 
 Many people value having someone to help them deal with the challenges and stresses of life but I know from my own experience how daunting it is to look for a counsellor and the courage it takes. I’m glad you’ve taken this first step.
 

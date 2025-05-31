@@ -4,7 +4,7 @@ title: Contact
 date: '2023-05-17T10:59:48-06:00'
 author: 'Neil Mayhew'
 layout: revision
-guid: 'https://www.beracah.ca/?p=776'
+guid: '/?p=776'
 permalink: '/?p=776'
 ---
 

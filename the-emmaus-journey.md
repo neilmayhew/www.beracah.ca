@@ -4,7 +4,7 @@ title: 'The Emmaus Journey'
 date: '2015-10-06T13:57:19-06:00'
 author: 'Neil Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=332'
+guid: '/?page_id=332'
 ---
 
 <!-- <div class="alignright" style="width: 45%; text-align: right;"> -->
@@ -48,7 +48,7 @@ As a residential retreat there will be opportunity to get to know your fellow re
 **Cost: $630**. This includes accommodation, meals, materials, and individual debriefs with an experienced debriefer.  
 Costs for online retreat will be much lower – exact cost yet to be determined.
 
-| [![Registration Form Spring 2019](https://www.beracah.ca/wp-content/uploads/2018/05/Registration-Form.png "Spring 2020")](/wp-content/uploads/2020/02/Registration-Form-2020-05.pdf) | [![Registration Form Fall 2019](https://www.beracah.ca/wp-content/uploads/2018/05/Registration-Form.png "Fall 2020")](/wp-content/uploads/2020/02/Registration-Form-2020-09.pdf) |
+| [![Registration Form Spring 2019](/wp-content/uploads/2018/05/Registration-Form.png "Spring 2020")](/wp-content/uploads/2020/02/Registration-Form-2020-05.pdf) | [![Registration Form Fall 2019](/wp-content/uploads/2018/05/Registration-Form.png "Fall 2020")](/wp-content/uploads/2020/02/Registration-Form-2020-09.pdf) |
 |---|---|
 | Registration Form (fillable)   **Spring 2020** | Registration Form (fillable)   **Fall 2020** |
 

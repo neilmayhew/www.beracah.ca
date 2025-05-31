@@ -4,10 +4,10 @@ title: 'About Hazel'
 date: '2013-03-18T08:22:14-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=9'
+guid: '/?page_id=9'
 ---
 
-![](https://www.beracah.ca/wp-content/uploads/2019/05/IMG_20190508_131114-262x300.jpg){: style="float: left; margin-right: 2em"}
+![](/wp-content/uploads/2019/05/IMG_20190508_131114-262x300.jpg){: style="float: left; margin-right: 2em"}
 
 As a member of an international Christian mission agency for 20 years, Hazel, who is originally from England, spent time in Kenya and Texas before moving to Canada. She is married with three adult third-culture sons and a daughter-in-law.
 

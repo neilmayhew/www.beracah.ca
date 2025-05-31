@@ -4,7 +4,7 @@ title: Services
 date: '2013-03-18T08:33:32-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=29'
+guid: '/?page_id=29'
 ---
 
 I bring my experience as a nurse, missionary, wife and mother, together with my years of living cross-culturally, to my work as a counsellor. I enjoy counselling individuals from a variety of backgrounds and with a variety of concerns, including:

@@ -4,7 +4,7 @@ title: 'Missionary Care'
 date: '2015-01-23T22:09:33-07:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=314'
+guid: '/?page_id=314'
 ---
 
 Debriefing……… Counselling……….Listening Skills Workshops………

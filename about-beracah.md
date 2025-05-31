@@ -4,7 +4,7 @@ title: 'Behind the name'
 date: '2013-05-15T19:24:38-06:00'
 author: 'Hazel Mayhew'
 layout: page
-guid: 'http://www.beracah.ca/?page_id=89'
+guid: '/?page_id=89'
 ---
 
 … the Valley of Blessing.

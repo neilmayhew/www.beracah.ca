@@ -7,7 +7,7 @@ layout: page
 guid: '/?page_id=22'
 ---
 
-![](/wp-content/uploads/2019/05/Lifespan-website-photo-267x300.jpg){: style="float: right; margin-left: 2em"}
+![](/images/Lifespan-website-photo-267x300.jpg){: style="float: right; margin-left: 2em"}
 
 Many people value having someone to help them deal with the challenges and stresses of life but I know from my own experience how daunting it is to look for a counsellor and the courage it takes. I’m glad you’ve taken this first step.
 

@@ -7,7 +7,7 @@ layout: page
 guid: '/?page_id=9'
 ---
 
-![](/wp-content/uploads/2019/05/IMG_20190508_131114-262x300.jpg){: style="float: left; margin-right: 2em"}
+![](/images/IMG_20190508_131114-262x300.jpg){: style="float: left; margin-right: 2em"}
 
 As a member of an international Christian mission agency for 20 years, Hazel, who is originally from England, spent time in Kenya and Texas before moving to Canada. She is married with three adult third-culture sons and a daughter-in-law.
 

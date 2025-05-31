@@ -34,6 +34,25 @@
 .navbar {
   margin-bottom: 0px;
 }
+.navbar-inverse {
+  background-color: #919d74;
+  text-transform: uppercase;
+  .navbar-nav > {
+    li > a {
+      &:hover, &:focus {
+        color: #ffffff;
+        background-color: #555c43;
+      }
+    }
+    .active > a {
+      background-color: #555c43;
+      &:hover, &:focus {
+        color: #ffffff;
+        background-color: #555c43;
+      }
+    }
+  }
+}
 
 .jumb-bot {
 }

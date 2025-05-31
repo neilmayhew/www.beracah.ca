@@ -3,7 +3,12 @@
 ---
 @charset "utf-8";
 
+@use "sass:color";
 
+// Import partials from `sass_dir` (defaults to `_sass`)
+@use "base";
+@use "layout";
+@use "syntax-highlighting";
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -18,8 +23,8 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark:  color.adjust($grey-color, $lightness: -25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -43,10 +48,3 @@ $on-laptop:        800px;
 }
 
 
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;

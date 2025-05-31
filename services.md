@@ -27,8 +27,6 @@ I am also available for debriefing for cross-cultural workers working overseas o
 
 All sessions are online, via Zoom. 
 
-If you are experiencing thoughts of harming yourself or another person or if you are at risk of being harmed please seek help from your local emergency services, followed by in-person counselling with a therapist who is able to offer that. If you are experiencing hallucinations, delusions or other psychotic symptoms then in-person counselling is also required.
-
-If you are experiencing thoughts of harming yourself or another person, if you are in an immediate crisis, or if you are experiencing hallucinations, delusions or other psychotic symptoms online counselling is not recommended. In this siutation I may be able to give you names of other counsellors who might be able to meet with you in person. If you are experiencing a mental or physical crisis please contact your local emergency services for immediate help.
+If you are experiencing thoughts of harming yourself or another person, if you are at risk of being harmed, or if you are experiencing hallucinations, delusions or other psychotic symptoms online counselling is not recommended. If you are in need of immediate help please contact your local emergency services. 
 
 I am accountable to a well-qualified supervision team that ensures my knowledge, practice, and ethics are held to the highest of professional standards. In addition, I am a certified member of the Professional Association of Christian Counsellors and Psychotherapists (PACCP), and a reigstered member of the Assocation of Counselling Therapy of Alberta (ACTA). As part of my commitment to giving you good care I attend workshops, read journals and books, and collaborate with other professionals to enhance my knowledge and expertise.

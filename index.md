@@ -11,7 +11,7 @@ guid: '/?page_id=22'
 
 Many people value having someone to help them deal with the challenges and stresses of life but I know from my own experience how daunting it is to look for a counsellor and the courage it takes. I’m glad you’ve taken this first step.
 
-Please take a look at my website and don’t hesitate to [contact](/contact) me if you have questions or would like to set up an appointment. You can reach me by email or on my confidential phone line (details above, and on the contact page).
+Please take a look at my website and don’t hesitate to [contact](/contact.html) me if you have questions or would like to set up an appointment. You can reach me by email or on my confidential phone line (details above, and on the contact page).
 
 I look forward to hearing from you. I would be honoured to be part of your journey.
 

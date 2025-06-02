@@ -1,9 +1,10 @@
 url: 'https://www.beracah.ca'
 title: 'Beracah Counselling'
+description: 'Hazel Mayhew - Beracah Counselling'
 favicon: favicon.png
-description:
+subtitle:
   Hazel Mayhew, MA
   •
-  hazel13@37beracah.ca
+  hazel<span class='hidden'>13</span>@<span class='hidden'>37</span>beracah.ca
   •
-  403-@123@477-@456@8772
+  403-<span class='hidden'>123</span>477-<span class='hidden'>456</span>8772

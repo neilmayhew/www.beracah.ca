@@ -9,13 +9,11 @@ guid: '/?page_id=22'
 
 ![](/images/Lifespan-website-photo-267x300.jpg){: style="float: right; margin-left: 2em"}
 
-Many people value having someone to help them deal with the challenges and stresses of life but I know from my own experience how daunting it is to look for a counsellor and the courage it takes. I’m glad you’ve taken this first step.
+Thank you for visiting my website, however you've just missed me as I will be closing my counselling practice at the end of November 2025 and therefore am not taking any new clients. 
 
-Please take a look at my website and don’t hesitate to [contact](/contact.html) me if you have questions or would like to set up an appointment. You can reach me by email or on my confidential phone line (details above, and on the contact page).
+I know that might be disappointing if you have just taken the big step of reaching out for counselling. The professional body that I belong to has a listing of counsellors across the country at <www.paccp.ca> I hope that you will find someone there who will be a good fit for you. 
 
-I look forward to hearing from you. I would be honoured to be part of your journey.
+I wish you well in your journey of healing and growth. 
 
-**All sessions are online using Zoom.**
 
-As of May 30, 2025 my schedule is full and I am unfortunately not able to accept any new clients.
-Please contact me if you would like me to give you some options for counsellors who may have space and are able to meet with you.
+

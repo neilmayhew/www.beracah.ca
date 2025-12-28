@@ -7,15 +7,5 @@ pages:
 - title: The Name
   url: about-beracah.html
 
-# Services
-- title: Services
-  url: services.html
-
-- title: Missionary Care
-  url: missionary-care.html
-
-- title: Sessions
-  url: sessions-and-rates.html
-
 - title: Contact
   url: contact.html

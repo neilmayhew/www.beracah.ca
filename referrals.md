@@ -5,8 +5,6 @@ author: 'Hazel Mayhew'
 layout: page
 ---
 
-# Referrals
-
 * [PACCP](https://www.paccp.ca/)
 * [The MORE Network](https://more.outreach.ca/)
 * [Lifespan Integration](https://www.lifespanintegration.com/)
